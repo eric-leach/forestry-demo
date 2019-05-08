@@ -3,7 +3,7 @@ title: Portable EEG Montoring Device
 date: 2016-04-20T00:00:00.000+00:00
 categories: []
 description: A portable device for epileptic patients.
-banner_image: "/uploads/2019/05/08/download.jpeg"
+banner_image: "/uploads/2019/05/08/wave2.jpeg"
 sub_heading: A post-modern taking on Engineering in the Digital World
 tags:
 - engineering

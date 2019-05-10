@@ -2,7 +2,7 @@
 title: Maverics Command Line
 date: 2016-04-20T00:00:00.000+00:00
 categories: []
-description: A portable device for epileptic patients.
+description: Primary Maverics Tool.
 banner_image: "/uploads/2019/05/10/wave3.jpeg"
 sub_heading: Command Line tools for integrating on premises identity systems
 tags:

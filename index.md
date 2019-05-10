@@ -8,9 +8,9 @@ partners:
 services: []
 sub_heading: Open Source Identity Management Migration
 textline: |-
-  Maverics
+Maverics
 
-  The 3rd Wave of Identity
+The 3rd Wave of Identity
 hero_button:
   text: Learn more
   href: "/about"

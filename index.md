@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/05/10/maverics-rough.png"
+banner_image: "/uploads/2019/05/10/wave3.jpeg"
 layout: landing-page
 heading: Maverics Open Identity
 partners:

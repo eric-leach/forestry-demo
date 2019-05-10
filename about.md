@@ -5,8 +5,7 @@ banner_image: "/uploads/2019/05/10/wave4.jpeg"
 heading: About Maverics
 sub_heading: Open source identity tools
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: Get started migrating to the cloud.
 publish_date: 2017-12-01T04:00:00.000+00:00
 show_staff: true
 partners:

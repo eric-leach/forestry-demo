@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Maverics Open Identity
+short_title: Maverics
+description: Maverics Site for Forestry.io
 baseurl:
 permalink: "/:path/"
 defaults:

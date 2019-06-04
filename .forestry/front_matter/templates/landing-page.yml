@@ -33,14 +33,6 @@ fields:
   - type: text
     name: href
     label: Link
-- type: textarea
-  name: textline
-  label: Description
-  config:
-    wysiwyg: true
-    required: false
-    schema:
-      format: markdown
 - name: services
   label: Services
   type: field_group_list

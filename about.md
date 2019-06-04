@@ -1,12 +1,12 @@
 ---
 title: About
-date: 2017-11-01T03:00:00.000+00:00
-banner_image: "/uploads/2019/05/10/wave4.jpeg"
+date: '2017-11-01T03:00:00.000+00:00'
+banner_image: "/uploads/2019/06/04/AdobeStock_128119585_Preview.jpeg"
 heading: About Maverics
 sub_heading: Open source identity tools
 layout: landing-page
 textline: Get started migrating to the cloud.
-publish_date: 2017-12-01T04:00:00.000+00:00
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 partners:
 - "/uploads/2019/05/10/maverics-rough.png"

@@ -51,7 +51,7 @@ fields:
     label: Icon
     type: file
     hidden: false
-    default: ''
+    default: "/uploads/2019/05/10/maverics-rough.png"
   hidden: false
   default: ''
 - type: boolean

@@ -22,7 +22,9 @@ menu:
     weight: 1
 
 ---
-### Use Cases
+# The Third Wave of Identity Management
+
+## Use Cases
 
 Maverics is a simple, highly secure, open toolset used to integrate and migrate on-premises identity and access management systems to a cloud service provider's identity system.
 
